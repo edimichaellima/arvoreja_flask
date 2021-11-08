@@ -1,1 +1,1 @@
-web: gunicorn arvoreja:app
+web: gunicorn app:app
