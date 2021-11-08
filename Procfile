@@ -1,0 +1,1 @@
+web: gunicorn arvoreja:app
